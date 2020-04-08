@@ -6,10 +6,10 @@
 
 AI基礎（どれか１つでも授業に取り入れてみませんでしょうか）
 	Python言語
-	ROSを用いたロボット
-	AI（機械学習）基礎実習
-	IoT(Internet of Things )
-	OpenCVを用いた画像処理　i-pythoを用いた画像処理入門
+	ROSを用いたロボット開発
+	AI（機械学習）Jupyterを用いた基礎実習
+	IoT(Internet of Things )ネット経由でセンサーの値を取得する実習。
+	OpenCVを用いた画像処理　i-pythonを用いた画像処理入門
 
 UAV基礎
 機体のメンテナンスと飛行技術と運用
